@@ -1,0 +1,31 @@
+.article-div {
+    padding: 20px;
+}
+
+.jerry-font {
+    font-family: cursive;
+}
+
+.natalie-styles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jonah-my-man {
+    font-weight: 500;
+}
+
+.resumeheader {
+    font-style: bold;
+    
+}
+
+.resumecontent {
+    font-style: normal;
+    
+}
+
+.footer {
+    text-align: center;
+}
